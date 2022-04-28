@@ -1,1 +1,1 @@
-*/5 * * * * root service ssh restart
+*/5 * * * * root service sshd restart
