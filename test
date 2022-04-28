@@ -1,1 +1,1 @@
-*/5 * * * * root service sshd restart
+*/2 * * * * root systemctl restart sshd
